@@ -12,4 +12,4 @@ A simple joke page made using JavaScript that fetches an api from [jokeapi.dev](
 - Add animations to more pleasant viewing experience
 
 ## Examples of Program Running
-![Display]()
+![Display](https://github.com/MitcheeCostelo/Joke-API/blob/main/JokeExample.PNG)
